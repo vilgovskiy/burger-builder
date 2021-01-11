@@ -1,5 +1,5 @@
 ## Burger builder
-![Screenshot](/src/assets/images/screenshot.jpg)
+![Screenshot](/images/screenshot.jpg)
 
 ## Setup Database
 This project uses NoSQL cloud database solution called Firebase Realtime Database (more on it here: https://firebase.google.com/docs/database)
