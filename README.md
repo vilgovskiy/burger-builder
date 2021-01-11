@@ -22,13 +22,15 @@ This project uses NoSQL cloud database solution called Firebase Realtime Databas
           ".indexOn": ["userID"]
       }
     }
-  }
-  ```
+    }
+    ```
+    
+    
 4. Retrieve your Firebase API key and database url, create a file `src/secure/private.js` and add 2 exported constants like this:
-  ```
-  export const API_KEY = {your API key string}
-  export const FIREBASE_URL = {your Database URL}
-  ```
+    ```
+    export const API_KEY = {your API key string}
+    export const FIREBASE_URL = {your Database URL}
+    ```
 
 ## Running Burger Builder
 
